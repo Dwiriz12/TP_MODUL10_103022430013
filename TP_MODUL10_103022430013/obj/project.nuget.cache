@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsuXW0k++cU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spin 5\\source\\repos\\TP_MODUL10_103022430013\\TP_MODUL10_103022430013\\TP_MODUL10_103022430013.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spin 5\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\spin 5\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
